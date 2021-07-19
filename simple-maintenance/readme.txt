@@ -1,9 +1,9 @@
 === Simple Maintenance ===
 Contributors: naa986
 Donate link: https://wphowto.net/
-Tags: coming soon, maintenance, maintenance mode, splash page, under construction
+Tags: coming soon, coming soon page, maintenance, maintenance mode, under construction
 Requires at least: 3.0
-Tested up to: 5.1
+Tested up to: 5.8
 Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -24,7 +24,7 @@ The plugin does not require any additional configuration or setup. All you need 
 * Easier to manage as the maintenance mode can be turned on by activating the plugin
 * Notify the search engine crawler that the site is down for a limited period of time
 
-For more information please check the [WordPress Maintenance Plugin](https://wphowto.net/simple-maintenance-plugin-wordpress-595) documentation page
+For more information please check the [WordPress Maintenance Mode Plugin](https://wphowto.net/simple-maintenance-plugin-wordpress-595) documentation page
 
 == Installation ==
 
