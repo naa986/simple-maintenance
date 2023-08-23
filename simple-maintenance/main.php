@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simple Maintenance
-Version: 1.0.3
+Version: 1.0.4
 Plugin URI: http://wphowto.net/simple-maintenance-plugin-wordpress-595 
 Author: naa986
 Author URI: http://wphowto.net/
@@ -15,7 +15,7 @@ if(!class_exists('SIMPLE_MAINTENANCE'))
 {
     class SIMPLE_MAINTENANCE
     {
-        var $plugin_version = '1.0.3';
+        var $plugin_version = '1.0.4';
         var $plugin_url;
         var $plugin_path;
         function __construct()
@@ -61,7 +61,8 @@ if(!class_exists('SIMPLE_MAINTENANCE'))
         }
         function load_sm_page()
         {
-            header('HTTP/1.0 503 Service Unavailable');
+            //header('HTTP/1.0 503 Service Unavailable');
+            status_header(503);
             include_once("sm-template.php");
             exit();
         }

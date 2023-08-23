@@ -3,8 +3,8 @@ Contributors: naa986
 Donate link: https://wphowto.net/
 Tags: coming soon, coming soon page, maintenance, maintenance mode, under construction
 Requires at least: 3.0
-Tested up to: 6.1
-Stable tag: 1.0.3
+Tested up to: 6.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,12 +41,15 @@ Yes.
 
 == Screenshots ==
 
-For screenshots please check the [WordPress Maintenance](https://wphowto.net/simple-maintenance-plugin-wordpress-595) plugin page
+1. Maintenance Mode Page
 
 == Upgrade Notice ==
 none
 
 == Changelog ==
+
+= 1.0.4 =
+* WordPress 6.3 compatibility update.
 
 = 1.0.3 =
 * Added translation option
